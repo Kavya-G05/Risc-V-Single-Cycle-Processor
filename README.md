@@ -85,5 +85,3 @@ It is a teaching/learning model of a processor datapath, designed for clarity an
 
 ---
 
-👉 Would you like me to also draft a **block diagram figure** (datapath schematic) for this README, so it looks complete like the GitHub ones?
-
